@@ -126,3 +126,33 @@ button:hover {
 .dropdown:hover .dropbtn {
   background-color: #3e8e41;
 }
+footer {
+  background-color: #fafafa;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+footer a {
+  padding: 0;
+  color: #2e86c1;
+  text-decoration: none;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+.fa-twitter-square {
+  color: #00acee;
+}
+.fa-linkedin {
+  color: #0e76a8;
+}
+.fa-github-square {
+  color: #211f1f;
+}
